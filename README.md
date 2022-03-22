@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @0masn
-- 👀 I’m interested in product development.
-- 🌱 I’m currently learning Angular
+- 👨‍💻 A full stack developer
+- 👀 Interested in product development.
+- 🌱 Currently learning Flutter
 - 📫 Reach me by email: p156069@gmail.com
 
 <!---
