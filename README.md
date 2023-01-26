@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0masn
 - 👨‍💻 A full stack developer
 - 👀 Interested in product development.
-- 🌱 Currently learning Flutter
+- 🌱 Currently working on MEAN stack
 - 📫 Reach me by email: p156069@gmail.com
 
 <!---
